@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 50px;
+}
+
+.body-home {
+    background-color: #fafafa;
+}
+
+.navbar-inverse {
+    margin-bottom: 0;
+    background-color: #43a047;
+    border-bottom: #43a047;
+}
+
+.navbar-inverse .navbar-brand .navbar-logo {
+    height: 28px;
+}
+
+.navbar-inverse .navbar-brand {
+    padding-top: 12px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+.home .loading-section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.home .hero .logo {
+    max-width: 150px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home .hero .hero-tagline {
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #757575;
+}
+
+.home .hero .hero-title {
+    margin-top: 0;
+    font-size: 36px;
+}
+
+.home .cta-buttons {
+    margin-top: 40px;
+}
+
+.home .cta-buttons .cta-main {
+    margin-left: 40px;
+}
+
+.home p {
+    font-size: 16px;
+}
+
+.home .logos {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.home .users .user-logo-container {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home .users .user-logo {
+    width: 150px;
+}
+
+.home .users .user-logo.square {
+    width: 70px;
+}
+
+.home .users blockquote .user-logo-container {
+    justify-content: left;
+}
+
+.home .beta {
+    padding-top: 40px;
+    color: #777;
+}
+
+.footer {
+    margin-top: 40px;
+    background-color: #424242;
+    color: #fff;
+    padding: 20px;
+}
+
+.footer a {
+    color: #e0e0e0;
+}
+
+.footer .text-muted {
+    color: #e0e0e0;
+}
